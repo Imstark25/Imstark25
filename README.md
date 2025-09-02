@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats
 
-![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamstark25&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstark25&layout=compact&theme=tokyonight)
+![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imstark25&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imstark25&layout=compact&theme=tokyonight)
 
 ---
 
