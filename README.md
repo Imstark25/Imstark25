@@ -1,113 +1,63 @@
-<h1 align="center">Hey 👋 I'm Subash Chandra Bose</h1>
-
-<h3 align="center">
-🚀 Cloud & DevOps Enthusiast | Flutter Developer | React Native Explorer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+Engineer+in+Progress+☁️;Flutter+%26+React+Native+Developer+📱;DevOps+Learner+⚙️;Building+Projects+%26+Learning+Daily+🚀" />
-</p>
+<h1 align="center">Hi 👋, I'm Subash Chandra Bose Anbalagan</h1>
+<h3 align="center">🚀 Cloud Engineer | DevOps Enthusiast | Flutter app developer| REACT-NATIVE</h3>
 
 ---
 
-## 🧑‍💻 About Me
+🌱 I’m currently learning **Flutter ** and exploring **Cloud-Native Technologies**
 
-- 🌱 Currently learning **Flutter, AWS & DevOps**
-- ☁️ Exploring **Cloud-Native Technologies**
-- 📱 Building mobile apps using **Flutter & React Native**
-- ⚡ Love automating workflows and experimenting with tech
-- 🎯 Goal: Become a skilled **Cloud/DevOps Engineer**
+👨‍💻 Check out my projects on **[GitHub](https://github.com/iamstark25)**
 
----
+📫 Reach me at **subash.a2502@gmail.com**
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/subash-chandra-bose-anbalagan-66a908152/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/subash_anbalagan" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/iamstark25" target="blank">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+⚡ Fun fact: I enjoy automating everything—from deployments to chai breaks ☕😉
 
 ---
 
-# 🛠️ Tech Stack
+## 😎 Connect with Me
 
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,grafana,firebase" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chandra-bose-anbalagan-66a908152/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subash_anbalagan)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamstark25)
 
 ---
 
-## 💻 Languages & Frameworks
+## 🧰 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,nodejs,flutter,react,mongodb,mysql" />
-</p>
+### ☁️ Cloud Platforms
 
----
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-# 📊 GitHub Analytics
+### 🛠️ DevOps & Tools
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamstark25&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstark25&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🧑‍💻 Languages & Frameworks
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-# 🔥 GitHub Streak
+### 🗄️ Databases
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=iamstark25&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamstark25&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 📱 Mobile Apps
-- Flutter To-Do App
-- Expense Tracker
-- Firebase Authentication App
-
-## ☁️ Cloud & DevOps
-- AWS Monitoring Setup
-- Linux Automation Scripts
-- CI/CD Learning Projects
+![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imstark25&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imstark25&layout=compact&theme=tokyonight)
 
 ---
 
-# 🎯 Current Focus
+## 🚀 What's Next?
 
-```yaml
-Learning:
-  - Flutter Advanced UI
-  - AWS Services
-  - Docker & Kubernetes
-  - CI/CD Pipelines
-  - Linux Administration
+I'm always open to exciting **DevOps** and **cloud-native** project collaborations. Let’s innovate together!
+
+> “The best way to predict the future is to invent it.” – Alan Kay
