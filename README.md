@@ -53,7 +53,16 @@
 
 ![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imstark25&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imstark25&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
 
+![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imstark25&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imstark25&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Activity
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamstark25&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamstark25&theme=tokyo-night)
 ---
 
 ## 🚀 What's Next?
