@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning **Flutter ** and exploring **Cloud-Native Technologies**
+ I’m currently learning **Flutter ** and exploring **Cloud-Native Technologies**
 
 👨‍💻 Check out my projects on **[GitHub](https://github.com/iamstark25)**
 
